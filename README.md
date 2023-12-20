@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @0xY4t and i like breaking stuff
+- 👋 Hi, I’m @0xY4to and i like breaking stuff
 - 📫 0xY4to_git@protonmail.com
 
 <!---
