@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @0xY4t0
-- 👀 I’m interested in hacking & building tools
-- 🌱 I’m currently writing c2 applications in Go,
-     as well as plugins for the flipper zero device
+- 👋 Hi, I’m @0xY4t and i like breaking stuff
 - 📫 0xY4to_git@protonmail.com
 
 <!---
